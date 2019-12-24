@@ -10,4 +10,5 @@ The source files are located in the [`src`](./src) folder. All web components ar
 
 Find more information on the main repo on [GitHub](https://github.com/muenzpraeger/create-lwc-app).
 
-![Lightning Web Components in Open Source](https://imgur.com/a/nb976ZE) 
+## Lightning Web Components in Open Source 
+![Session List](https://i.imgur.com/lW1Ap8m.png) 
